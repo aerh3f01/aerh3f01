@@ -6,7 +6,7 @@
 
 ## My Projects 🔍
 Here are a few projects that I'm working on:
-- **Project 1:** [![Project Name](https://img.shields.io/badge/-Butxot_Bot-blue?style=flat-square)]([link-to-your-project](https://github.com/aerh3f01/butxot-bot/)) - A discord bot created in js with discord.js, with some moderation and report creation features.
+- **Project 1:** [![Project Name](https://img.shields.io/badge/-Butxot_Bot-blue?style=flat-square)](https://github.com/aerh3f01/butxot-bot/) - A discord bot created in js with discord.js, with some moderation and report creation features.
 - **Project 2:** [![Project Name](https://img.shields.io/badge/-Password_Generator-green?style=flat-square)](https://github.com/aerh3f01/password_generator) - A simple little password generator in python.
 - **Project 3:** [![Project Name](https://img.shields.io/badge/-Python_Quiz-red?style=flat-square)](https://github.com/aerh3f01/Python-Quiz) - A little python quiz built with PySide6, mostly used for learning new libraries.
 
