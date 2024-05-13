@@ -4,11 +4,14 @@
 🎓 I'm currently a university student studying Digital Forensics and Cybersecurity. <br />
 👨‍💻 I love working on coding projects, exploring new technologies, and challenging myself with new problems.
 
+
 ## My Projects 🔍
 Here are a few projects that I'm working on:
 - **Project 1:** [![Project Name](https://img.shields.io/badge/-Butxot_Bot-blue?style=flat-square)](https://github.com/aerh3f01/butxot-bot/) - A discord bot created in js with discord.js, with some moderation and report creation features.
 - **Project 2:** [![Project Name](https://img.shields.io/badge/-Password_Generator-green?style=flat-square)](https://github.com/aerh3f01/password_generator) - A simple little password generator in python.
 - **Project 3:** [![Project Name](https://img.shields.io/badge/-Python_Quiz-red?style=flat-square)](https://github.com/aerh3f01/Python-Quiz) - A little python quiz built with PySide6, mostly used for learning new libraries.
+
+![aerh3f01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerh3f01&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Skills 🛠️
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
