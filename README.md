@@ -14,19 +14,21 @@ Here are a few projects that I'm working on:
 ![aerh3f01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerh3f01&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Skills 🛠️
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br />
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&style=flat-square)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 <br />
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=postgresql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Connect with Me 🌐
 - **Website:** [![Website](https://img.shields.io/website-up-down-green-red/https/fudgedevelopment.com.svg?style=flat-square&label=fudgedevelopment.com)](http://fudgedevelopment.com)
