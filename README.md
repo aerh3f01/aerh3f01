@@ -1,4 +1,4 @@
-![Banner](./github-header-image.png)
+![Banner](./github-header-image (3).png)
 
 ## About Me 🧑‍💻
 🎓 I'm currently a university student studying Digital Forensics and Cybersecurity. <br />
